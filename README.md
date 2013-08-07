@@ -3,7 +3,7 @@ Information
 
 With this browser you can traverse an object by uid.
 It's pretty the same live resolveuid but the object is traversed,
-so you are not loosing the form paramter.
+so you are not losing the form paramter.
 
 Examples:
 
